@@ -14,3 +14,5 @@ const upi = "upi added"
 console.log(upi)
 
 console.log("Latest commit")
+
+console.log('Bug Fix')
